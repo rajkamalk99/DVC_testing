@@ -1,4 +1,5 @@
 outs:
-- md5: 0773dab65b4b05d0cb58df1fa8e6c16c
-  size: 3231
+- md5: dd064dd995cec8a2d6bdc4e51d57b528
+  size: 3064
   path: chunk_merge
+  hash: md5
