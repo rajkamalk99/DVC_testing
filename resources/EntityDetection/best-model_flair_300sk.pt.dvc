@@ -1,0 +1,4 @@
+outs:
+- md5: b52ead16bd299cc187f37e744da6daf9
+  size: 129206720
+  path: best-model_flair_300sk.pt
